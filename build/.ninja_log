@@ -1,0 +1,7 @@
+# ninja log v7
+109	1717	8061276082814376	CMakeFiles/TickParser.dir/src/metrics.cpp.obj	a8bb9f0dc19d3782
+123	2083	8061276082949765	CMakeFiles/TickParser.dir/src/threading.cpp.obj	a4ea92d8a7b92684
+78	2482	8061276082505014	CMakeFiles/TickParser.dir/src/io.cpp.obj	b374cf63da8bc788
+97	2672	8061276082695025	CMakeFiles/TickParser.dir/src/main.cpp.obj	90dcd116df3e31ea
+133	4131	8061276083046679	CMakeFiles/TickParser.dir/src/trade.cpp.obj	b8ced1149c393c57
+4132	4627	8061276123030407	TickParser.exe	97e159b6ce9410c8
